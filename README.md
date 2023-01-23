@@ -34,5 +34,5 @@ Storing of a key value pair inputs in BST, infix to postfix conversion using sta
 Using RB trees to store words of a dictionary, search for words and add or delete words.
 
 ## Sorting algorithms
-Implementation of sorting algorithms such as bubble, insertion, selection, merge, heap and quick sort and comparison between them in time.
+Implementation of sorting algorithms such as bubble, insertion, selection, merge, heap and quick sort and comparison between them in time.<br />
 ![Graph](https://github.com/YoussefKhafaga/Data-structures-implementation/blob/main/graph.png)
