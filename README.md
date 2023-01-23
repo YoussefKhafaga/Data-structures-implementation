@@ -35,3 +35,4 @@ Using RB trees to store words of a dictionary, search for words and add or delet
 
 ## Sorting algorithms
 Implementation of sorting algorithms such as bubble, insertion, selection, merge, heap and quick sort and comparison between them in time.
+![Graph](https://github.com/YoussefKhafaga/Data-structures-implementation/blob/main/graph.png)
